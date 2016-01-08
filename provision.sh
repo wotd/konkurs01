@@ -2,5 +2,5 @@
 
 
 chmod 444 /vagrant/skrypt.sh
-cp /vagrant/skypt.sh /home/vagrant
+cp /vagrant/skrypt.sh /home/vagrant
 chmod 444 /bin/chmod
